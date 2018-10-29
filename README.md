@@ -4,7 +4,7 @@ Navigation: [DEDIS](https://github.com/dedis/doc/tree/master/README.md) ::
 Cothority
 
 # Cothority
-
+Test
 The collective authority (cothority) project provides a framework for
 development, analysis, and deployment of decentralized, distributed
 (cryptographic) protocols. A given set of servers running these protocols is
